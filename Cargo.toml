@@ -1,0 +1,3 @@
+[workspace]
+members = [ "exquisite-editor","exquisite-engine-core", "exquisite-shand-box"]
+resolver = "2"
